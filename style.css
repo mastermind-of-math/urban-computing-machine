@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+.little_line{
+    height: 8px ;
+    width: 70px;
+    margin: 8px auto;
+    background-color: dimgray;
+}
+#apps{
+    background-color: azure;
+}
+#games{
+    background-color: lightblue;
+}
+#bot{
+    background-color: lightcoral;
+}
+h1{
+    font-family: monospace;
+    font-size: 30px;
+}
